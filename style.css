@@ -41,3 +41,21 @@
     border-radius: 7px;
 
 }
+
+.questions {
+    margin-left: 200px;
+}
+
+.companies {
+    height: 20px;
+}
+
+.last {
+    background-color: rgb(44, 43, 43);
+    width: 100ox;
+    height: 500px;
+}
+
+.h1-txt {
+    margin-top: 150px;
+}
