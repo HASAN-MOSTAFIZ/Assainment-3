@@ -1,5 +1,7 @@
 .Slider {
     margin-top: 100px;
+    margin-bottom: 100px;
+
 }
 
 /* .image {
@@ -12,4 +14,30 @@
 .carousel-caption h1 {
     font-weight: 400;
     font-size: 70px;
+}
+
+.course-list {
+    left: 50px;
+}
+
+.reg-box {
+    width: 1110px;
+    margin-left: 120px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 10px;
+
+}
+
+.reg {
+    padding-left: 50px;
+}
+
+.btn-reg {
+    background-color: white;
+    margin-left: 350px;
+    border-radius: 7px;
+
 }
