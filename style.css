@@ -1,0 +1,15 @@
+.Slider {
+    margin-top: 100px;
+}
+
+/* .image {
+    background-image: url(images/cover/cover-1.png);
+} */
+.carousel-caption {
+    bottom: 150px;
+}
+
+.carousel-caption h1 {
+    font-weight: 400;
+    font-size: 70px;
+}
