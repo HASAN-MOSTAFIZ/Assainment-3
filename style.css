@@ -59,3 +59,8 @@
 .h1-txt {
     margin-top: 150px;
 }
+
+.icons {
+    position: absolute;
+    left: 520px;
+}
